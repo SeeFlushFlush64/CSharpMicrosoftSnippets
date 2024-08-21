@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\bin\Debug\net8.0\Aug21SwitchCase.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\bin\Debug\net8.0\Aug21SwitchCase.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\bin\Debug\net8.0\Aug21SwitchCase.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\bin\Debug\net8.0\Aug21SwitchCase.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\bin\Debug\net8.0\Aug21SwitchCase.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\obj\Debug\net8.0\Aug21SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\obj\Debug\net8.0\Aug21SwitchCase.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\obj\Debug\net8.0\Aug21SwitchCase.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\obj\Debug\net8.0\Aug21SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\obj\Debug\net8.0\Aug21SwitchCase.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\obj\Debug\net8.0\Aug21SwitchCase.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\obj\Debug\net8.0\refint\Aug21SwitchCase.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\obj\Debug\net8.0\Aug21SwitchCase.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\obj\Debug\net8.0\Aug21SwitchCase.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21SwitchCase\obj\Debug\net8.0\ref\Aug21SwitchCase.dll

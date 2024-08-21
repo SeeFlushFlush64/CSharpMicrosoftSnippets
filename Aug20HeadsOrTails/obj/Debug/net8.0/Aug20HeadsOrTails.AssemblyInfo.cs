@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aug20HeadsOrTails")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1382218e229cfe05622b471063d125b17448b18")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aug20HeadsOrTails")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aug20HeadsOrTails")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

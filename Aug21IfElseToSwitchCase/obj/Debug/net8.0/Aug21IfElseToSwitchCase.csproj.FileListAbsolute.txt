@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\bin\Debug\net8.0\Aug21IfElseToSwitchCase.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\bin\Debug\net8.0\Aug21IfElseToSwitchCase.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\bin\Debug\net8.0\Aug21IfElseToSwitchCase.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\bin\Debug\net8.0\Aug21IfElseToSwitchCase.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\bin\Debug\net8.0\Aug21IfElseToSwitchCase.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\obj\Debug\net8.0\Aug21IfElseToSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\obj\Debug\net8.0\Aug21IfElseToSwitchCase.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\obj\Debug\net8.0\Aug21IfElseToSwitchCase.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\obj\Debug\net8.0\Aug21IfElseToSwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\obj\Debug\net8.0\Aug21IfElseToSwitchCase.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\obj\Debug\net8.0\Aug21IfElseToSwitchCase.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\obj\Debug\net8.0\refint\Aug21IfElseToSwitchCase.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\obj\Debug\net8.0\Aug21IfElseToSwitchCase.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\obj\Debug\net8.0\Aug21IfElseToSwitchCase.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21IfElseToSwitchCase\obj\Debug\net8.0\ref\Aug21IfElseToSwitchCase.dll
