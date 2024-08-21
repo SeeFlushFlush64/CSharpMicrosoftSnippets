@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18LINQTutorial\bin\Debug\net8.0\Aug18LINQTutorial.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18LINQTutorial\bin\Debug\net8.0\Aug18LINQTutorial.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18LINQTutorial\bin\Debug\net8.0\Aug18LINQTutorial.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18LINQTutorial\bin\Debug\net8.0\Aug18LINQTutorial.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18LINQTutorial\bin\Debug\net8.0\Aug18LINQTutorial.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18LINQTutorial\obj\Debug\net8.0\Aug18LINQTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18LINQTutorial\obj\Debug\net8.0\Aug18LINQTutorial.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18LINQTutorial\obj\Debug\net8.0\Aug18LINQTutorial.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18LINQTutorial\obj\Debug\net8.0\Aug18LINQTutorial.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18LINQTutorial\obj\Debug\net8.0\Aug18LINQTutorial.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18LINQTutorial\obj\Debug\net8.0\refint\Aug18LINQTutorial.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18LINQTutorial\obj\Debug\net8.0\Aug18LINQTutorial.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18LINQTutorial\obj\Debug\net8.0\Aug18LINQTutorial.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18LINQTutorial\obj\Debug\net8.0\ref\Aug18LINQTutorial.dll

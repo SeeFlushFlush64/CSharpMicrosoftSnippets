@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aug18StringForEach/1.0.0": {
+        "runtime": {
+          "Aug18StringForEach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aug18StringForEach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

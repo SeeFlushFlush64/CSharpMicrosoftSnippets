@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug9ConsoleProjectAssignmentAverage\obj\Debug\net8.0\Aug9ConsoleProjectAssignmentAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug9ConsoleProjectAssignmentAverage\obj\Debug\net8.0\Aug9ConsoleProjectAssignmentAverage.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug9ConsoleProjectAssignmentAverage\obj\Debug\net8.0\Aug9ConsoleProjectAssignmentAverage.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug9ConsoleProjectAssignmentAverage\obj\Debug\net8.0\Aug9ConsoleProjectAssignmentAverage.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug9ConsoleProjectAssignmentAverage\bin\Debug\net8.0\Aug9ConsoleProjectAssignmentAverage.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug9ConsoleProjectAssignmentAverage\bin\Debug\net8.0\Aug9ConsoleProjectAssignmentAverage.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug9ConsoleProjectAssignmentAverage\bin\Debug\net8.0\Aug9ConsoleProjectAssignmentAverage.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug9ConsoleProjectAssignmentAverage\bin\Debug\net8.0\Aug9ConsoleProjectAssignmentAverage.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug9ConsoleProjectAssignmentAverage\bin\Debug\net8.0\Aug9ConsoleProjectAssignmentAverage.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug9ConsoleProjectAssignmentAverage\obj\Debug\net8.0\Aug9ConsoleProjectAssignmentAverage.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug9ConsoleProjectAssignmentAverage\obj\Debug\net8.0\refint\Aug9ConsoleProjectAssignmentAverage.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug9ConsoleProjectAssignmentAverage\obj\Debug\net8.0\Aug9ConsoleProjectAssignmentAverage.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug9ConsoleProjectAssignmentAverage\obj\Debug\net8.0\Aug9ConsoleProjectAssignmentAverage.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug9ConsoleProjectAssignmentAverage\obj\Debug\net8.0\ref\Aug9ConsoleProjectAssignmentAverage.dll

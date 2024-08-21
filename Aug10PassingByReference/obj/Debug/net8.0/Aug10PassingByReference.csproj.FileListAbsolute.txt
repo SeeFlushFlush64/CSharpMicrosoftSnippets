@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug10PassingByReference\obj\Debug\net8.0\Aug10PassingByReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug10PassingByReference\obj\Debug\net8.0\Aug10PassingByReference.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug10PassingByReference\obj\Debug\net8.0\Aug10PassingByReference.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug10PassingByReference\obj\Debug\net8.0\Aug10PassingByReference.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug10PassingByReference\bin\Debug\net8.0\Aug10PassingByReference.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug10PassingByReference\bin\Debug\net8.0\Aug10PassingByReference.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug10PassingByReference\bin\Debug\net8.0\Aug10PassingByReference.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug10PassingByReference\bin\Debug\net8.0\Aug10PassingByReference.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug10PassingByReference\bin\Debug\net8.0\Aug10PassingByReference.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug10PassingByReference\obj\Debug\net8.0\Aug10PassingByReference.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug10PassingByReference\obj\Debug\net8.0\refint\Aug10PassingByReference.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug10PassingByReference\obj\Debug\net8.0\Aug10PassingByReference.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug10PassingByReference\obj\Debug\net8.0\Aug10PassingByReference.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug10PassingByReference\obj\Debug\net8.0\ref\Aug10PassingByReference.dll

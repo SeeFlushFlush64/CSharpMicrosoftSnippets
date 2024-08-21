@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12ReadLineExperiments\obj\Debug\net8.0\Aug12ReadLineExperiments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12ReadLineExperiments\obj\Debug\net8.0\Aug12ReadLineExperiments.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12ReadLineExperiments\obj\Debug\net8.0\Aug12ReadLineExperiments.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12ReadLineExperiments\obj\Debug\net8.0\Aug12ReadLineExperiments.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12ReadLineExperiments\bin\Debug\net8.0\Aug12ReadLineExperiments.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12ReadLineExperiments\bin\Debug\net8.0\Aug12ReadLineExperiments.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12ReadLineExperiments\bin\Debug\net8.0\Aug12ReadLineExperiments.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12ReadLineExperiments\bin\Debug\net8.0\Aug12ReadLineExperiments.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12ReadLineExperiments\bin\Debug\net8.0\Aug12ReadLineExperiments.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12ReadLineExperiments\obj\Debug\net8.0\Aug12ReadLineExperiments.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12ReadLineExperiments\obj\Debug\net8.0\refint\Aug12ReadLineExperiments.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12ReadLineExperiments\obj\Debug\net8.0\Aug12ReadLineExperiments.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12ReadLineExperiments\obj\Debug\net8.0\Aug12ReadLineExperiments.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12ReadLineExperiments\obj\Debug\net8.0\ref\Aug12ReadLineExperiments.dll

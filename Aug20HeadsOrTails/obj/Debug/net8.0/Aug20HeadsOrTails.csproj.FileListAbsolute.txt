@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20HeadsOrTails\obj\Debug\net8.0\Aug20HeadsOrTails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20HeadsOrTails\obj\Debug\net8.0\Aug20HeadsOrTails.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20HeadsOrTails\obj\Debug\net8.0\Aug20HeadsOrTails.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20HeadsOrTails\obj\Debug\net8.0\Aug20HeadsOrTails.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20HeadsOrTails\bin\Debug\net8.0\Aug20HeadsOrTails.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20HeadsOrTails\bin\Debug\net8.0\Aug20HeadsOrTails.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20HeadsOrTails\bin\Debug\net8.0\Aug20HeadsOrTails.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20HeadsOrTails\bin\Debug\net8.0\Aug20HeadsOrTails.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20HeadsOrTails\bin\Debug\net8.0\Aug20HeadsOrTails.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20HeadsOrTails\obj\Debug\net8.0\Aug20HeadsOrTails.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20HeadsOrTails\obj\Debug\net8.0\refint\Aug20HeadsOrTails.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20HeadsOrTails\obj\Debug\net8.0\Aug20HeadsOrTails.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20HeadsOrTails\obj\Debug\net8.0\Aug20HeadsOrTails.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20HeadsOrTails\obj\Debug\net8.0\ref\Aug20HeadsOrTails.dll

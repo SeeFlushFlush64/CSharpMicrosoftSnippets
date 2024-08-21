@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20BusinessLogic\bin\Debug\net8.0\Aug20BusinessLogic.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20BusinessLogic\bin\Debug\net8.0\Aug20BusinessLogic.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20BusinessLogic\bin\Debug\net8.0\Aug20BusinessLogic.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20BusinessLogic\bin\Debug\net8.0\Aug20BusinessLogic.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20BusinessLogic\bin\Debug\net8.0\Aug20BusinessLogic.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20BusinessLogic\obj\Debug\net8.0\Aug20BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20BusinessLogic\obj\Debug\net8.0\Aug20BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20BusinessLogic\obj\Debug\net8.0\Aug20BusinessLogic.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20BusinessLogic\obj\Debug\net8.0\Aug20BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20BusinessLogic\obj\Debug\net8.0\Aug20BusinessLogic.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20BusinessLogic\obj\Debug\net8.0\refint\Aug20BusinessLogic.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20BusinessLogic\obj\Debug\net8.0\Aug20BusinessLogic.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20BusinessLogic\obj\Debug\net8.0\Aug20BusinessLogic.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug20BusinessLogic\obj\Debug\net8.0\ref\Aug20BusinessLogic.dll

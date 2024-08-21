@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18IEnumerable\bin\Debug\net8.0\Aug18IEnumerable.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18IEnumerable\bin\Debug\net8.0\Aug18IEnumerable.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18IEnumerable\bin\Debug\net8.0\Aug18IEnumerable.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18IEnumerable\bin\Debug\net8.0\Aug18IEnumerable.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18IEnumerable\bin\Debug\net8.0\Aug18IEnumerable.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18IEnumerable\obj\Debug\net8.0\Aug18IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18IEnumerable\obj\Debug\net8.0\Aug18IEnumerable.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18IEnumerable\obj\Debug\net8.0\Aug18IEnumerable.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18IEnumerable\obj\Debug\net8.0\Aug18IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18IEnumerable\obj\Debug\net8.0\Aug18IEnumerable.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18IEnumerable\obj\Debug\net8.0\refint\Aug18IEnumerable.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18IEnumerable\obj\Debug\net8.0\Aug18IEnumerable.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18IEnumerable\obj\Debug\net8.0\Aug18IEnumerable.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18IEnumerable\obj\Debug\net8.0\ref\Aug18IEnumerable.dll

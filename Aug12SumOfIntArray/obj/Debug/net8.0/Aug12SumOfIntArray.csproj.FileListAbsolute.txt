@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12SumOfIntArray\bin\Debug\net8.0\Aug12SumOfIntArray.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12SumOfIntArray\bin\Debug\net8.0\Aug12SumOfIntArray.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12SumOfIntArray\bin\Debug\net8.0\Aug12SumOfIntArray.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12SumOfIntArray\bin\Debug\net8.0\Aug12SumOfIntArray.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12SumOfIntArray\bin\Debug\net8.0\Aug12SumOfIntArray.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12SumOfIntArray\obj\Debug\net8.0\Aug12SumOfIntArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12SumOfIntArray\obj\Debug\net8.0\Aug12SumOfIntArray.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12SumOfIntArray\obj\Debug\net8.0\Aug12SumOfIntArray.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12SumOfIntArray\obj\Debug\net8.0\Aug12SumOfIntArray.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12SumOfIntArray\obj\Debug\net8.0\Aug12SumOfIntArray.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12SumOfIntArray\obj\Debug\net8.0\refint\Aug12SumOfIntArray.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12SumOfIntArray\obj\Debug\net8.0\Aug12SumOfIntArray.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12SumOfIntArray\obj\Debug\net8.0\Aug12SumOfIntArray.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12SumOfIntArray\obj\Debug\net8.0\ref\Aug12SumOfIntArray.dll

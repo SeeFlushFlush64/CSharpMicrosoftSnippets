@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8StudentGradingApplication\obj\Debug\net8.0\Aug8StudentGradingApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8StudentGradingApplication\obj\Debug\net8.0\Aug8StudentGradingApplication.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8StudentGradingApplication\obj\Debug\net8.0\Aug8StudentGradingApplication.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8StudentGradingApplication\obj\Debug\net8.0\Aug8StudentGradingApplication.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8StudentGradingApplication\bin\Debug\net8.0\Aug8StudentGradingApplication.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8StudentGradingApplication\bin\Debug\net8.0\Aug8StudentGradingApplication.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8StudentGradingApplication\bin\Debug\net8.0\Aug8StudentGradingApplication.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8StudentGradingApplication\bin\Debug\net8.0\Aug8StudentGradingApplication.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8StudentGradingApplication\bin\Debug\net8.0\Aug8StudentGradingApplication.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8StudentGradingApplication\obj\Debug\net8.0\Aug8StudentGradingApplication.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8StudentGradingApplication\obj\Debug\net8.0\refint\Aug8StudentGradingApplication.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8StudentGradingApplication\obj\Debug\net8.0\Aug8StudentGradingApplication.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8StudentGradingApplication\obj\Debug\net8.0\Aug8StudentGradingApplication.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8StudentGradingApplication\obj\Debug\net8.0\ref\Aug8StudentGradingApplication.dll

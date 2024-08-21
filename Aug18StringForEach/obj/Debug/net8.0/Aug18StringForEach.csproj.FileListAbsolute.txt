@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18StringForEach\bin\Debug\net8.0\Aug18StringForEach.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18StringForEach\bin\Debug\net8.0\Aug18StringForEach.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18StringForEach\bin\Debug\net8.0\Aug18StringForEach.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18StringForEach\bin\Debug\net8.0\Aug18StringForEach.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18StringForEach\bin\Debug\net8.0\Aug18StringForEach.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18StringForEach\obj\Debug\net8.0\Aug18StringForEach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18StringForEach\obj\Debug\net8.0\Aug18StringForEach.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18StringForEach\obj\Debug\net8.0\Aug18StringForEach.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18StringForEach\obj\Debug\net8.0\Aug18StringForEach.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18StringForEach\obj\Debug\net8.0\Aug18StringForEach.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18StringForEach\obj\Debug\net8.0\refint\Aug18StringForEach.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18StringForEach\obj\Debug\net8.0\Aug18StringForEach.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18StringForEach\obj\Debug\net8.0\Aug18StringForEach.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug18StringForEach\obj\Debug\net8.0\ref\Aug18StringForEach.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aug10PassingByReference/1.0.0": {
+        "runtime": {
+          "Aug10PassingByReference.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aug10PassingByReference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

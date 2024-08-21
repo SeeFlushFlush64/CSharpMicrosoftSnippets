@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8FirstC#\bin\Debug\net8.0\Aug8FirstC#.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8FirstC#\bin\Debug\net8.0\Aug8FirstC#.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8FirstC#\bin\Debug\net8.0\Aug8FirstC#.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8FirstC#\bin\Debug\net8.0\Aug8FirstC#.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8FirstC#\bin\Debug\net8.0\Aug8FirstC#.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8FirstC#\obj\Debug\net8.0\Aug8FirstC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8FirstC#\obj\Debug\net8.0\Aug8FirstC#.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8FirstC#\obj\Debug\net8.0\Aug8FirstC#.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8FirstC#\obj\Debug\net8.0\Aug8FirstC#.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8FirstC#\obj\Debug\net8.0\Aug8FirstC#.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8FirstC#\obj\Debug\net8.0\refint\Aug8FirstC#.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8FirstC#\obj\Debug\net8.0\Aug8FirstC#.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8FirstC#\obj\Debug\net8.0\Aug8FirstC#.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8FirstC#\obj\Debug\net8.0\ref\Aug8FirstC#.dll

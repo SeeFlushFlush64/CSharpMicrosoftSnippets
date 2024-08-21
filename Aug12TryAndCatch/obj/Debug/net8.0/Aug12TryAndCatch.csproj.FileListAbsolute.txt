@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12TryAndCatch\bin\Debug\net8.0\Aug12TryAndCatch.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12TryAndCatch\bin\Debug\net8.0\Aug12TryAndCatch.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12TryAndCatch\bin\Debug\net8.0\Aug12TryAndCatch.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12TryAndCatch\bin\Debug\net8.0\Aug12TryAndCatch.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12TryAndCatch\bin\Debug\net8.0\Aug12TryAndCatch.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12TryAndCatch\obj\Debug\net8.0\Aug12TryAndCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12TryAndCatch\obj\Debug\net8.0\Aug12TryAndCatch.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12TryAndCatch\obj\Debug\net8.0\Aug12TryAndCatch.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12TryAndCatch\obj\Debug\net8.0\Aug12TryAndCatch.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12TryAndCatch\obj\Debug\net8.0\Aug12TryAndCatch.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12TryAndCatch\obj\Debug\net8.0\refint\Aug12TryAndCatch.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12TryAndCatch\obj\Debug\net8.0\Aug12TryAndCatch.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12TryAndCatch\obj\Debug\net8.0\Aug12TryAndCatch.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug12TryAndCatch\obj\Debug\net8.0\ref\Aug12TryAndCatch.dll

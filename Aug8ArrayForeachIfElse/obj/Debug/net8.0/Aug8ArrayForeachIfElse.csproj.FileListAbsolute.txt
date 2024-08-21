@@ -1,0 +1,14 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8ArrayForeachIfElse\obj\Debug\net8.0\Aug8ArrayForeachIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8ArrayForeachIfElse\obj\Debug\net8.0\Aug8ArrayForeachIfElse.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8ArrayForeachIfElse\obj\Debug\net8.0\Aug8ArrayForeachIfElse.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8ArrayForeachIfElse\obj\Debug\net8.0\Aug8ArrayForeachIfElse.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8ArrayForeachIfElse\bin\Debug\net8.0\Aug8ArrayForeachIfElse.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8ArrayForeachIfElse\bin\Debug\net8.0\Aug8ArrayForeachIfElse.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8ArrayForeachIfElse\bin\Debug\net8.0\Aug8ArrayForeachIfElse.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8ArrayForeachIfElse\bin\Debug\net8.0\Aug8ArrayForeachIfElse.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8ArrayForeachIfElse\bin\Debug\net8.0\Aug8ArrayForeachIfElse.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8ArrayForeachIfElse\obj\Debug\net8.0\Aug8ArrayForeachIfElse.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8ArrayForeachIfElse\obj\Debug\net8.0\refint\Aug8ArrayForeachIfElse.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8ArrayForeachIfElse\obj\Debug\net8.0\Aug8ArrayForeachIfElse.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8ArrayForeachIfElse\obj\Debug\net8.0\Aug8ArrayForeachIfElse.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug8ArrayForeachIfElse\obj\Debug\net8.0\ref\Aug8ArrayForeachIfElse.dll
