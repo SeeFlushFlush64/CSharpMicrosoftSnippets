@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\bin\Debug\net8.0\Aug21ForLoop.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\bin\Debug\net8.0\Aug21ForLoop.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\bin\Debug\net8.0\Aug21ForLoop.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\bin\Debug\net8.0\Aug21ForLoop.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\bin\Debug\net8.0\Aug21ForLoop.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\obj\Debug\net8.0\Aug21ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\obj\Debug\net8.0\Aug21ForLoop.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\obj\Debug\net8.0\Aug21ForLoop.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\obj\Debug\net8.0\Aug21ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\obj\Debug\net8.0\Aug21ForLoop.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\obj\Debug\net8.0\Aug21ForLoop.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\obj\Debug\net8.0\refint\Aug21ForLoop.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\obj\Debug\net8.0\Aug21ForLoop.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\obj\Debug\net8.0\Aug21ForLoop.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug21ForLoop\obj\Debug\net8.0\ref\Aug21ForLoop.dll
