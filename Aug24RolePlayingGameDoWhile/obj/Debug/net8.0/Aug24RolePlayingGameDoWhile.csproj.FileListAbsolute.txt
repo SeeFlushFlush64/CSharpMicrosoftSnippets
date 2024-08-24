@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\obj\Debug\net8.0\Aug24RolePlayingGameDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\obj\Debug\net8.0\Aug24RolePlayingGameDoWhile.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\obj\Debug\net8.0\Aug24RolePlayingGameDoWhile.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\obj\Debug\net8.0\Aug24RolePlayingGameDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\obj\Debug\net8.0\Aug24RolePlayingGameDoWhile.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\bin\Debug\net8.0\Aug24RolePlayingGameDoWhile.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\bin\Debug\net8.0\Aug24RolePlayingGameDoWhile.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\bin\Debug\net8.0\Aug24RolePlayingGameDoWhile.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\bin\Debug\net8.0\Aug24RolePlayingGameDoWhile.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\bin\Debug\net8.0\Aug24RolePlayingGameDoWhile.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\obj\Debug\net8.0\Aug24RolePlayingGameDoWhile.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\obj\Debug\net8.0\refint\Aug24RolePlayingGameDoWhile.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\obj\Debug\net8.0\Aug24RolePlayingGameDoWhile.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\obj\Debug\net8.0\Aug24RolePlayingGameDoWhile.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug24RolePlayingGameDoWhile\obj\Debug\net8.0\ref\Aug24RolePlayingGameDoWhile.dll
