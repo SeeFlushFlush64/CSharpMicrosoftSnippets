@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\obj\Debug\net8.0\Aug26SelectYourRole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\obj\Debug\net8.0\Aug26SelectYourRole.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\obj\Debug\net8.0\Aug26SelectYourRole.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\obj\Debug\net8.0\Aug26SelectYourRole.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\obj\Debug\net8.0\Aug26SelectYourRole.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\bin\Debug\net8.0\Aug26SelectYourRole.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\bin\Debug\net8.0\Aug26SelectYourRole.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\bin\Debug\net8.0\Aug26SelectYourRole.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\bin\Debug\net8.0\Aug26SelectYourRole.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\bin\Debug\net8.0\Aug26SelectYourRole.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\obj\Debug\net8.0\Aug26SelectYourRole.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\obj\Debug\net8.0\refint\Aug26SelectYourRole.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\obj\Debug\net8.0\Aug26SelectYourRole.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\obj\Debug\net8.0\Aug26SelectYourRole.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug26SelectYourRole\obj\Debug\net8.0\ref\Aug26SelectYourRole.dll
