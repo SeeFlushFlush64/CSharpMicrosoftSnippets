@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\obj\Debug\net8.0\September1ArrayFindIndexCopy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\obj\Debug\net8.0\September1ArrayFindIndexCopy.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\obj\Debug\net8.0\September1ArrayFindIndexCopy.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\obj\Debug\net8.0\September1ArrayFindIndexCopy.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\obj\Debug\net8.0\September1ArrayFindIndexCopy.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\bin\Debug\net8.0\September1ArrayFindIndexCopy.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\bin\Debug\net8.0\September1ArrayFindIndexCopy.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\bin\Debug\net8.0\September1ArrayFindIndexCopy.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\bin\Debug\net8.0\September1ArrayFindIndexCopy.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\bin\Debug\net8.0\September1ArrayFindIndexCopy.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\obj\Debug\net8.0\September1ArrayFindIndexCopy.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\obj\Debug\net8.0\refint\September1ArrayFindIndexCopy.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\obj\Debug\net8.0\September1ArrayFindIndexCopy.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\obj\Debug\net8.0\September1ArrayFindIndexCopy.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1ArrayFindIndexCopy\obj\Debug\net8.0\ref\September1ArrayFindIndexCopy.dll
