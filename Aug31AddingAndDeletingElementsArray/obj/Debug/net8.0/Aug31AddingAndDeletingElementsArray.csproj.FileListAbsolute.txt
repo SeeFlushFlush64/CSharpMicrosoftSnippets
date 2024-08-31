@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\obj\Debug\net8.0\Aug31AddingAndDeletingElementsArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\obj\Debug\net8.0\Aug31AddingAndDeletingElementsArray.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\obj\Debug\net8.0\Aug31AddingAndDeletingElementsArray.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\obj\Debug\net8.0\Aug31AddingAndDeletingElementsArray.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\obj\Debug\net8.0\Aug31AddingAndDeletingElementsArray.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\bin\Debug\net8.0\Aug31AddingAndDeletingElementsArray.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\bin\Debug\net8.0\Aug31AddingAndDeletingElementsArray.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\bin\Debug\net8.0\Aug31AddingAndDeletingElementsArray.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\bin\Debug\net8.0\Aug31AddingAndDeletingElementsArray.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\bin\Debug\net8.0\Aug31AddingAndDeletingElementsArray.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\obj\Debug\net8.0\Aug31AddingAndDeletingElementsArray.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\obj\Debug\net8.0\refint\Aug31AddingAndDeletingElementsArray.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\obj\Debug\net8.0\Aug31AddingAndDeletingElementsArray.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\obj\Debug\net8.0\Aug31AddingAndDeletingElementsArray.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\Aug31AddingAndDeletingElementsArray\obj\Debug\net8.0\ref\Aug31AddingAndDeletingElementsArray.dll
