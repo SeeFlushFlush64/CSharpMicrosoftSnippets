@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\obj\Debug\net8.0\September1InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\obj\Debug\net8.0\September1InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\obj\Debug\net8.0\September1InventoryManagementSystem.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\obj\Debug\net8.0\September1InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\obj\Debug\net8.0\September1InventoryManagementSystem.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\bin\Debug\net8.0\September1InventoryManagementSystem.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\bin\Debug\net8.0\September1InventoryManagementSystem.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\bin\Debug\net8.0\September1InventoryManagementSystem.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\bin\Debug\net8.0\September1InventoryManagementSystem.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\bin\Debug\net8.0\September1InventoryManagementSystem.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\obj\Debug\net8.0\September1InventoryManagementSystem.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\obj\Debug\net8.0\refint\September1InventoryManagementSystem.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\obj\Debug\net8.0\September1InventoryManagementSystem.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\obj\Debug\net8.0\September1InventoryManagementSystem.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September1InventoryManagementSystem\obj\Debug\net8.0\ref\September1InventoryManagementSystem.dll
