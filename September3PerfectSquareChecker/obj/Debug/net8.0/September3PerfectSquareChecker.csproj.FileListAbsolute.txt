@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\bin\Debug\net8.0\September3PerfectSquareChecker.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\bin\Debug\net8.0\September3PerfectSquareChecker.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\bin\Debug\net8.0\September3PerfectSquareChecker.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\bin\Debug\net8.0\September3PerfectSquareChecker.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\bin\Debug\net8.0\September3PerfectSquareChecker.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\obj\Debug\net8.0\September3PerfectSquareChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\obj\Debug\net8.0\September3PerfectSquareChecker.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\obj\Debug\net8.0\September3PerfectSquareChecker.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\obj\Debug\net8.0\September3PerfectSquareChecker.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\obj\Debug\net8.0\September3PerfectSquareChecker.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\obj\Debug\net8.0\September3PerfectSquareChecker.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\obj\Debug\net8.0\refint\September3PerfectSquareChecker.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\obj\Debug\net8.0\September3PerfectSquareChecker.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\obj\Debug\net8.0\September3PerfectSquareChecker.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September3PerfectSquareChecker\obj\Debug\net8.0\ref\September3PerfectSquareChecker.dll
