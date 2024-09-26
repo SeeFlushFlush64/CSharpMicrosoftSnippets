@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\obj\Debug\net8.0\September26TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\obj\Debug\net8.0\September26TwoSum.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\obj\Debug\net8.0\September26TwoSum.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\obj\Debug\net8.0\September26TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\obj\Debug\net8.0\September26TwoSum.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\bin\Debug\net8.0\September26TwoSum.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\bin\Debug\net8.0\September26TwoSum.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\bin\Debug\net8.0\September26TwoSum.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\bin\Debug\net8.0\September26TwoSum.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\bin\Debug\net8.0\September26TwoSum.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\obj\Debug\net8.0\September26TwoSum.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\obj\Debug\net8.0\refint\September26TwoSum.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\obj\Debug\net8.0\September26TwoSum.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\obj\Debug\net8.0\September26TwoSum.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26TwoSum\obj\Debug\net8.0\ref\September26TwoSum.dll
