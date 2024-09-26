@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\bin\Debug\net8.0\September26FindingAllIndexesOfAllOccurences.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\bin\Debug\net8.0\September26FindingAllIndexesOfAllOccurences.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\bin\Debug\net8.0\September26FindingAllIndexesOfAllOccurences.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\bin\Debug\net8.0\September26FindingAllIndexesOfAllOccurences.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\bin\Debug\net8.0\September26FindingAllIndexesOfAllOccurences.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\obj\Debug\net8.0\September26FindingAllIndexesOfAllOccurences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\obj\Debug\net8.0\September26FindingAllIndexesOfAllOccurences.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\obj\Debug\net8.0\September26FindingAllIndexesOfAllOccurences.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\obj\Debug\net8.0\September26FindingAllIndexesOfAllOccurences.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\obj\Debug\net8.0\September26FindingAllIndexesOfAllOccurences.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\obj\Debug\net8.0\September26FindingAllIndexesOfAllOccurences.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\obj\Debug\net8.0\refint\September26FindingAllIndexesOfAllOccurences.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\obj\Debug\net8.0\September26FindingAllIndexesOfAllOccurences.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\obj\Debug\net8.0\September26FindingAllIndexesOfAllOccurences.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingAllIndexesOfAllOccurences\obj\Debug\net8.0\ref\September26FindingAllIndexesOfAllOccurences.dll
