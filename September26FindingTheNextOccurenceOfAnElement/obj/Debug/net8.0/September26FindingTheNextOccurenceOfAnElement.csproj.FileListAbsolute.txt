@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\bin\Debug\net8.0\September26FindingTheNextOccurenceOfAnElement.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\bin\Debug\net8.0\September26FindingTheNextOccurenceOfAnElement.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\bin\Debug\net8.0\September26FindingTheNextOccurenceOfAnElement.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\bin\Debug\net8.0\September26FindingTheNextOccurenceOfAnElement.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\bin\Debug\net8.0\September26FindingTheNextOccurenceOfAnElement.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\obj\Debug\net8.0\September26FindingTheNextOccurenceOfAnElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\obj\Debug\net8.0\September26FindingTheNextOccurenceOfAnElement.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\obj\Debug\net8.0\September26FindingTheNextOccurenceOfAnElement.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\obj\Debug\net8.0\September26FindingTheNextOccurenceOfAnElement.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\obj\Debug\net8.0\September26FindingTheNextOccurenceOfAnElement.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\obj\Debug\net8.0\September26FindingTheNextOccurenceOfAnElement.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\obj\Debug\net8.0\refint\September26FindingTheNextOccurenceOfAnElement.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\obj\Debug\net8.0\September26FindingTheNextOccurenceOfAnElement.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\obj\Debug\net8.0\September26FindingTheNextOccurenceOfAnElement.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September26FindingTheNextOccurenceOfAnElement\obj\Debug\net8.0\ref\September26FindingTheNextOccurenceOfAnElement.dll
