@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\obj\Debug\net8.0\September27RomanToInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\obj\Debug\net8.0\September27RomanToInteger.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\obj\Debug\net8.0\September27RomanToInteger.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\obj\Debug\net8.0\September27RomanToInteger.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\obj\Debug\net8.0\September27RomanToInteger.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\bin\Debug\net8.0\September27RomanToInteger.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\bin\Debug\net8.0\September27RomanToInteger.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\bin\Debug\net8.0\September27RomanToInteger.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\bin\Debug\net8.0\September27RomanToInteger.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\bin\Debug\net8.0\September27RomanToInteger.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\obj\Debug\net8.0\September27RomanToInteger.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\obj\Debug\net8.0\refint\September27RomanToInteger.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\obj\Debug\net8.0\September27RomanToInteger.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\obj\Debug\net8.0\September27RomanToInteger.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27RomanToInteger\obj\Debug\net8.0\ref\September27RomanToInteger.dll

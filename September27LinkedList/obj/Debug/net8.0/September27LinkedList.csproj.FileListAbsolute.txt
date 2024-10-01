@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\bin\Debug\net8.0\September27LinkedList.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\bin\Debug\net8.0\September27LinkedList.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\bin\Debug\net8.0\September27LinkedList.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\bin\Debug\net8.0\September27LinkedList.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\bin\Debug\net8.0\September27LinkedList.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\obj\Debug\net8.0\September27LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\obj\Debug\net8.0\September27LinkedList.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\obj\Debug\net8.0\September27LinkedList.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\obj\Debug\net8.0\September27LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\obj\Debug\net8.0\September27LinkedList.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\obj\Debug\net8.0\September27LinkedList.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\obj\Debug\net8.0\refint\September27LinkedList.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\obj\Debug\net8.0\September27LinkedList.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\obj\Debug\net8.0\September27LinkedList.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September27LinkedList\obj\Debug\net8.0\ref\September27LinkedList.dll

@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\bin\Debug\net8.0\September29PalindromeTwoPointersPattern.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\bin\Debug\net8.0\September29PalindromeTwoPointersPattern.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\bin\Debug\net8.0\September29PalindromeTwoPointersPattern.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\bin\Debug\net8.0\September29PalindromeTwoPointersPattern.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\bin\Debug\net8.0\September29PalindromeTwoPointersPattern.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\obj\Debug\net8.0\September29PalindromeTwoPointersPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\obj\Debug\net8.0\September29PalindromeTwoPointersPattern.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\obj\Debug\net8.0\September29PalindromeTwoPointersPattern.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\obj\Debug\net8.0\September29PalindromeTwoPointersPattern.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\obj\Debug\net8.0\September29PalindromeTwoPointersPattern.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\obj\Debug\net8.0\September29PalindromeTwoPointersPattern.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\obj\Debug\net8.0\refint\September29PalindromeTwoPointersPattern.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\obj\Debug\net8.0\September29PalindromeTwoPointersPattern.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\obj\Debug\net8.0\September29PalindromeTwoPointersPattern.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September29PalindromeTwoPointersPattern\obj\Debug\net8.0\ref\September29PalindromeTwoPointersPattern.dll

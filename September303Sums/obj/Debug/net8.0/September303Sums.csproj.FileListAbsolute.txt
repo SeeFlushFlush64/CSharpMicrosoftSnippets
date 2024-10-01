@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\obj\Debug\net8.0\September303Sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\obj\Debug\net8.0\September303Sums.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\obj\Debug\net8.0\September303Sums.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\obj\Debug\net8.0\September303Sums.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\obj\Debug\net8.0\September303Sums.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\bin\Debug\net8.0\September303Sums.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\bin\Debug\net8.0\September303Sums.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\bin\Debug\net8.0\September303Sums.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\bin\Debug\net8.0\September303Sums.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\bin\Debug\net8.0\September303Sums.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\obj\Debug\net8.0\September303Sums.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\obj\Debug\net8.0\refint\September303Sums.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\obj\Debug\net8.0\September303Sums.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\obj\Debug\net8.0\September303Sums.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September303Sums\obj\Debug\net8.0\ref\September303Sums.dll

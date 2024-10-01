@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "September29PalindromeTwoPointersPattern/1.0.0": {
+        "runtime": {
+          "September29PalindromeTwoPointersPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "September29PalindromeTwoPointersPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

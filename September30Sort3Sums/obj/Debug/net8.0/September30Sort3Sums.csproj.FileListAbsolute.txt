@@ -1,0 +1,15 @@
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\obj\Debug\net8.0\September30Sort3Sums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\obj\Debug\net8.0\September30Sort3Sums.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\obj\Debug\net8.0\September30Sort3Sums.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\obj\Debug\net8.0\September30Sort3Sums.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\obj\Debug\net8.0\September30Sort3Sums.sourcelink.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\bin\Debug\net8.0\September30Sort3Sums.exe
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\bin\Debug\net8.0\September30Sort3Sums.deps.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\bin\Debug\net8.0\September30Sort3Sums.runtimeconfig.json
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\bin\Debug\net8.0\September30Sort3Sums.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\bin\Debug\net8.0\September30Sort3Sums.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\obj\Debug\net8.0\September30Sort3Sums.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\obj\Debug\net8.0\refint\September30Sort3Sums.dll
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\obj\Debug\net8.0\September30Sort3Sums.pdb
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\obj\Debug\net8.0\September30Sort3Sums.genruntimeconfig.cache
+C:\Users\micha\OneDrive\Desktop\c#-microsoft-freecodecamp\September30Sort3Sums\obj\Debug\net8.0\ref\September30Sort3Sums.dll
